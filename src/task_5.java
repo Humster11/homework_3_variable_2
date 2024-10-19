@@ -1,5 +1,5 @@
 public class task_5 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         byte allCanPaintForRepair = 120;
         byte countCanWhitePaintOneClass = 2;
         byte countCanBrownPaintOneClass = 4;
