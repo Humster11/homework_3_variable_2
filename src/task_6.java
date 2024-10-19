@@ -17,11 +17,11 @@ public class task_6 {
         byte countEggs = 4;
         int weightAllEggs = weightOneEgg*countEggs;
 
-        int weightGramSportBreakfast = allWeightBananas+weightMilkAll+weightIceCreamAll+weightAllEggs;
+        float weightGramSportBreakfast = allWeightBananas+weightMilkAll+weightIceCreamAll+weightAllEggs;
 
         System.out.println("Вес спортзавтрака в граммах "+weightGramSportBreakfast+" гр");
 
-        int weighKilogramsSportBreakfast = weightGramSportBreakfast/1000;
+        float weighKilogramsSportBreakfast = weightGramSportBreakfast/1000;
 
         System.out.println("Вес спортзавтрака в килограммах "+weighKilogramsSportBreakfast+" кг");
 

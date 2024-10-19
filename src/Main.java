@@ -9,12 +9,12 @@ public class Main {
         float floatVar = 125.69F;
         double doubleVar = 125.145698;
 
-        System.out.println(intVar);
-        System.out.println(byteVar);
-        System.out.println(shortVar);
-        System.out.println(longVar);
-        System.out.println(floatVar);
-        System.out.println(doubleVar);
+        System.out.println("Значение переменной intVar с типом int равно " + intVar);
+        System.out.println("Значение переменной byteVar с типом byte равно " + byteVar);
+        System.out.println("Значение переменной shortVar с типом short равно " + shortVar);
+        System.out.println("Значение переменной longVar с типом long равно " + longVar);
+        System.out.println("Значение переменной floatVar с типом float равно " + floatVar);
+        System.out.println("Значение переменной doubleVar с типом double равно " + doubleVar);
 
 
     }

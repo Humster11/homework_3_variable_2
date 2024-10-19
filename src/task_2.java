@@ -1,5 +1,5 @@
 public class task_2 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         float fVar = 27.12f;
         long lVar = 987678965549L;
         double dVar = 2.786;
